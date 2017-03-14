@@ -1,2 +1,5 @@
 # Girls-STEMClubPresentation
 My slides for middle school girls' STEM club presentations on what being a software engineer is about
+http://slides.com/noaharnik/deck
+
+The girls first do an exercise where they come up with ideas for a fictitious doggy phone on their own.  They then split up into groups and all come up with one phone per group and assign one or two presenters.  They must adhere to the requirements, but otherwise there are no rules (and we assume that the dog is incredibly smart, beyond any dog known to man).  They then present their doggy phones to the club.  We learn from this exercise that there can be multiple solutions and that there are solutions that just can't be perfect.  We also learn that we can come up with the best solution when we communicate with our team.  After that I tell them about what it's like to be a software engineer, the different types of software engineers on a team, what industries you could work in (all of them) and the day to day life of an engineer.  We finish the club session with questions.
